@@ -1,0 +1,14 @@
+<OSC_SEND>
+	<SEND>
+    	<IP>127.0.0.1</IP>
+    	<PORT>7000</PORT>
+    </SEND>
+    <SEND>
+    	<IP>127.0.0.1</IP>
+    	<PORT>7001</PORT>
+    </SEND>
+</OSC_SEND>
+<OSC_RECEIVE>
+    <PORT>7001</PORT>
+<OSC_RECEIVE>
+

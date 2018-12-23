@@ -1,0 +1,18 @@
+﻿  ofAppDraw.cpp
+  ofAppInput.cpp
+  slSourceImage.cpp
+e:\code\of\of_v0.10.1_vs2017_release\apps\myapps\scanline\src\slsourceimage.cpp(10): error C2664: 'void ofxCvGrayscaleImage::setFromPixels(const unsigned char *,int,int)': cannot convert argument 1 from 'ofPixels' to 'const unsigned char *'
+  e:\code\of\of_v0.10.1_vs2017_release\apps\myapps\scanline\src\slsourceimage.cpp(10): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+e:\code\of\of_v0.10.1_vs2017_release\addons\ofxboids\src\attractionpoint2d.h(50): warning C4996: 'ofRect': Use ofDrawRectangle instead (compiling source file src\ofAppInput.cpp)
+  e:\code\of\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(512): note: see declaration of 'ofRect' (compiling source file src\ofAppInput.cpp)
+e:\code\of\of_v0.10.1_vs2017_release\addons\ofxboids\src\attractionpoint2d.h(51): warning C4996: 'ofRect': Use ofDrawRectangle instead (compiling source file src\ofAppInput.cpp)
+  e:\code\of\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(512): note: see declaration of 'ofRect' (compiling source file src\ofAppInput.cpp)
+e:\code\of\of_v0.10.1_vs2017_release\addons\ofxboids\src\flock2d.h(184): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofAppInput.cpp)
+e:\code\of\of_v0.10.1_vs2017_release\addons\ofxboids\src\attractionpoint2d.h(50): warning C4996: 'ofRect': Use ofDrawRectangle instead (compiling source file src\ofAppDraw.cpp)
+  e:\code\of\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(512): note: see declaration of 'ofRect' (compiling source file src\ofAppDraw.cpp)
+e:\code\of\of_v0.10.1_vs2017_release\addons\ofxboids\src\attractionpoint2d.h(51): warning C4996: 'ofRect': Use ofDrawRectangle instead (compiling source file src\ofAppDraw.cpp)
+  e:\code\of\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(512): note: see declaration of 'ofRect' (compiling source file src\ofAppDraw.cpp)
+e:\code\of\of_v0.10.1_vs2017_release\addons\ofxboids\src\flock2d.h(402): warning C4018: '>': signed/unsigned mismatch (compiling source file src\ofAppInput.cpp)
+e:\code\of\of_v0.10.1_vs2017_release\addons\ofxboids\src\flock2d.h(184): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofAppDraw.cpp)
+e:\code\of\of_v0.10.1_vs2017_release\addons\ofxboids\src\flock2d.h(402): warning C4018: '>': signed/unsigned mismatch (compiling source file src\ofAppDraw.cpp)
+e:\code\of\of_v0.10.1_vs2017_release\apps\myapps\scanline\src\ofappinput.cpp(49): warning C4018: '<': signed/unsigned mismatch
