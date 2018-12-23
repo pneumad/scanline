@@ -9,6 +9,7 @@
 *.pdb
 *.lib
 *.obj
+*.exp
 
 # Packages #
 ############
@@ -33,3 +34,7 @@
 # OS generated files #
 ######################
 .DS_Store
+
+# Misc	#
+#########
+*.res
